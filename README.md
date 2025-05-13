@@ -4,6 +4,8 @@
 
 - Recommendation using content-based filtering by using TF-IDF and Cosine Similarity
 
+- Data from https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
 
 ## Frontend 
 ### .env example
